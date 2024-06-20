@@ -1,1 +1,2 @@
-console.log('primeiro projeto da casa')
+import { nomeTrocado } from "./function";
+nomeTrocado()

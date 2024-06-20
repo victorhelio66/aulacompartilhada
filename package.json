@@ -1,0 +1,16 @@
+{
+  "name": "lucas",
+  "version": "1.0.0",
+  "description": "tensoo",
+  "main": "arquivo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+    
+    
+    
+  },
+  "author": "lucassilva",
+  "license": "ISC",
+  "type": "module"
+}
